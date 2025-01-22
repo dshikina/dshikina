@@ -1,16 +1,17 @@
-## Hi I'm Danniel 👋
-
 <!--
 **dshikina/dshikina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+# Hi, I'm Danniel 👋  
+
+🌱 I’m currently learning to enhance my development skills.  
+💬 Ask me about programming, design, and problem-solving.  
+🌟 Always ready to collaborate and create amazing things!  
+
+---
+
+![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+profile) <!-- Cambia esta URL por la de tu imagen deseada -->
+
+</div>
