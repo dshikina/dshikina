@@ -7,9 +7,9 @@
 # Hi, I'm Danniel 👋  
 
 🌱 I’m currently learning to enhance my development skills.  
-💬 Ask me about programming, design, and problem-solving.  
-🌟 Always ready to collaborate and create amazing things!  
-
+⚽️ I love to spend my free time watching football.
+👊🏻 Always willing to add my grain of sand to proyects and the community.
+🇨🇴 Peruvian/Colombian 🇵🇪
 ---
 
 ![Banner](https://github.com/dshikina/dshikina/blob/main/banner.jpg.png) 
