@@ -12,6 +12,6 @@
 
 ---
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+profile) <!-- Cambia esta URL por la de tu imagen deseada -->
+![Banner](https://github.com/dshikina/dshikina/blob/main/banner.jpg.png) 
 
 </div>
