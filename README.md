@@ -8,7 +8,7 @@
 
 <div style="font-size: 14px; text-align: left; list-style: none; padding: 0;">
   <p>🌱 I’m currently learning to enhance my development skills.</p>
-  <p>⚽️ I love to spend my free time watching football.</p>
+  <p>⚽️ I love to spend my free time watching sports.</p>
   <p>👊🏻 Always willing to add my grain of sand to projects and the community.</p>
   <p>🇨🇴 Peruvian/Colombian 🇵🇪</p>
 </div>
